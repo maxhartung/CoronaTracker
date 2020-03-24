@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CoronaTracker</string>
+
+    <string name="numar_infectie">Numar infectie: %1$s</string>
+    <string name="judet">Judet: %1$s</string>
+    <string name="varsta">Varsta: %1$s</string>
+    <string name="sex">Sex: %1$s</string>
+    <string name="izloare">A fost in izolare: %1$s</string>
+    <string name="carantina">A fost in carantina: %1$s</string>
+    <string name="din_tara">Din tara: %1$s</string>
+    <string name="asimptomatic">Asimptomatic: %1$s</string>
+    <string name="virus_de_la_alta_persoana">Virus de la alta persoana: %1$s</string>
+    <string name="grav">Grav: %1$s</string>
+    <string name="decedat">Decedat: %1$s</string>
+    <string name="vindecat">Vindecat: %1$s</string>
+    <string name="alta_boala">Alta boala: %1$s</string>
+    <string name="data_infectie">Data Infectiei: %1$s</string>
+    <string name="bt_refresh">Refresh</string>
+    <string name="tw_nr_infectati">Numar infectati: %1$s</string>
+    <string name="tw_sursa">Sursa: https://covid19.hackout.ro/</string>
+    <string name="tw_loading_in_progress">Loading...</string>
+</resources>
